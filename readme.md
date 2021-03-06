@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prasun-roy-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@prasun-roy-" height="30" width="40" /></a>
-<a href="https://twitter.com/Prasun_Roy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Prasun_Roy_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasun-roy-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="@prasun-roy-" height="30" width="40" /></a>
+<a href="https://twitter.com/Prasun_Roy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="@Prasun_Roy_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
