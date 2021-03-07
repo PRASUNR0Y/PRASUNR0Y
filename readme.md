@@ -7,11 +7,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/PRASUNR0Y/PRASUNR0Y/blob/master/code.gif?raw=true" width="460" height="310" />
 
-- 🔭 I’m currently working on [My Website](https://github.com/PRASUNR0Y)
+- 🔭 I’m currently working on [My Website](https://github.com/PRASUNR0Y/prasunr0y.github.io)
 
 - 🌱 I’m currently learning **Python, C++,Cloud Computing**
 
-- 👯 I’m looking to collaborate on [Suzi Desktop Assistant](https://github.com/PRASUNR0Y)
+- 👯 I’m looking to collaborate on [Suzi Desktop Assistant](https://github.com/PRASUNR0Y/Desktop-Assistant)
 
 - 📫 How to reach me **prasunroygit@gmail.com**
 
