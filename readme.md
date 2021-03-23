@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasun</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASUNR0Y&label=Profile%20views&color=0e75b6&style=flat" alt="PRASUNR0Y" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASUNR0Y&label=Profile%20views&color=0e75b6&style=flat" alt="PRASUNR0Y" /> <a href="https://prasunr0y.github.io" target="blank"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://prasunr0y.github.io/"/></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRASUNR0Y" alt="PRASUNR0Y" /></a> </p>
 
