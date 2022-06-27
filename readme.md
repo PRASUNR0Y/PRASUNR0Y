@@ -5,7 +5,6 @@
 
 <img src="./header_.png">
 
-<br>
 
 <img align="right" alt="GIF" src="https://github.com/PRASUNR0Y/PRASUNR0Y/blob/master/code.gif?raw=true" width="460" height="310" />
 
@@ -23,7 +22,7 @@
 
 <br>
 
-## 🤝🏻 Connect with me 🤝🏻
+<h2 style="text-decoration: none">🤝🏻 Connect with me 🤝🏻</h2>
 
 <br>
 
@@ -36,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
-<h2 align="center">🔥 Languages, Tools and Technologies 🔥</h2>
+<h2 align="center" style="text-decoration: none">🔥 Languages, Tools and Technologies 🔥</h2>
 
 <br>
 
@@ -82,7 +81,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
-<h2 align="center">📈 Statistics 📈</h2>
+<h2 align="center" style="text-decoration: none">📈 Statistics 📈</h2>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRASUNR0Y&theme=onedark&title=MultiLanguage,Joined2020,Commits,Repositories,Stars,PullRequest&margin-w=16" alt="PRASUNR0Y" /></a> </p>
