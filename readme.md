@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasun Roy</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASUNR0Y&label=Profile%20views&color=0e75b6&style=flat" alt="PRASUNR0Y" /> <a href="https://prasunr0y.github.io" target="blank"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://prasunr0y.github.io/"/></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASUNR0Y&label=Profile%20views&color=0e75b6&style=flat" alt="PRASUNR0Y" /> <a href="https://prasunr0y.github.io"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://prasunr0y.github.io/"/></a> </p>
 
 <img src="./header_.png">
 
@@ -22,7 +22,7 @@
 
 <br>
 
-<h2 style="text-decoration: none">🤝🏻 Connect with me 🤝🏻</h2>
+<h2>🤝🏻 Connect with me 🤝🏻</h2>
 
 <br>
 
@@ -35,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
-<h2 align="center" style="text-decoration: none">🔥 Languages, Tools and Technologies 🔥</h2>
+<h2 align="center">🔥 Languages, Tools and Technologies 🔥</h2>
 
 <br>
 
@@ -81,10 +81,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
-<h2 align="center" style="text-decoration: none">📈 Statistics 📈</h2>
+<h2 align="center">📈 Statistics 📈</h2>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRASUNR0Y&theme=onedark&title=MultiLanguage,Joined2020,Commits,Repositories,Stars,PullRequest&margin-w=16" alt="PRASUNR0Y" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRASUNR0Y&theme=onedark&title=MultiLanguage,Joined2020,Commits,Repositories,Stars,PullRequest&margin-w=14" alt="PRASUNR0Y" /></a> </p>
 
 
 <p>
