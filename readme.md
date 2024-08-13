@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
-- 📫 How to reach me **contact@prasunroy.live**
+- 📫 How to reach me **contact@prasunroy.com**
 
 
 <br>
@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/prasun-roy-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="@prasun-roy-" height="30" width="40" /></a>
 <a href="https://twitter.com/Prasun_Roy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="@Prasun_Roy_" height="30" width="40" /></a>
-<a href="mailto:contact@prasunroy.live"><img src="https://img.icons8.com/color/96/000000/gmail.png" align="center" alt="email" height="40" width="40" /></a>
+<a href="mailto:contact@prasunroy.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" align="center" alt="email" height="40" width="40" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
